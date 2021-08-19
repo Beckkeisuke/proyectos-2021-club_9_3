@@ -7,7 +7,7 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
-
+¡ Hola, muchp gusto!
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
 * ¿porqué es importante?
